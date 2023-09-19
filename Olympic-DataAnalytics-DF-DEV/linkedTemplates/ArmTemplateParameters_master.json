@@ -1,0 +1,36 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "Olympic-DataAnalytics-DF-DEV"
+		},
+		"AzureDataLakeStorage_accountKey": {
+			"value": ""
+		},
+		"AthletesHTTP_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/pramodlakshan/Olympic-DataAnalytics/main/Athletes.csv"
+		},
+		"AzureDataLakeStorage_properties_typeProperties_url": {
+			"value": "https://olympicdataanalyticspro.dfs.core.windows.net/"
+		},
+		"CoachesHTTP_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/pramodlakshan/Olympic-DataAnalytics/main/Coaches.csv"
+		},
+		"EntriesGenderHTTP_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/pramodlakshan/Olympic-DataAnalytics/main/EntriesGender.csv"
+		},
+		"MedalsHTTP_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/pramodlakshan/Olympic-DataAnalytics/main/Medals.csv"
+		},
+		"TeamsHTTP_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/pramodlakshan/Olympic-DataAnalytics/main/Teams.csv"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
