@@ -458,7 +458,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobFSLocation",
-						"fileName": "CoachesRaw.csv",
+						"fileName": "coachesRaw.csv",
 						"fileSystem": "raw-data"
 					},
 					"columnDelimiter": ",",
@@ -538,7 +538,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobFSLocation",
-						"fileName": "EntriesGenderRaw.csv",
+						"fileName": "entriesGenderRaw.csv",
 						"fileSystem": "raw-data"
 					},
 					"columnDelimiter": ",",
@@ -592,7 +592,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobFSLocation",
-						"fileName": "MedalsRaw.csv",
+						"fileName": "medalsRaw.csv",
 						"fileSystem": "raw-data"
 					},
 					"columnDelimiter": ",",
@@ -646,7 +646,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobFSLocation",
-						"fileName": "TeamsRaw.csv",
+						"fileName": "teamsRaw.csv",
 						"fileSystem": "raw-data"
 					},
 					"columnDelimiter": ",",
