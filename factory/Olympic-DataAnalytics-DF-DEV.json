@@ -1,0 +1,9 @@
+{
+	"name": "Olympic-DataAnalytics-DF-DEV",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a8207168-336a-4f1b-8ab6-eaeecef86afd",
+		"tenantId": "73656292-7151-445d-a78f-089614e359a2"
+	}
+}
